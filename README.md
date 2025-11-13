@@ -8,7 +8,7 @@
 
 ### A premium, animated accordion component with glassmorphism effects
 
-[View Demo](https://Mehdi-dev-sudo.github.io/Accordion/) · [Report Bug](https://github.com/Mehdi-dev-sudo/Accordion/issues) · [Request Feature]()
+[View Demo](https://Mehdi-dev-sudo.github.io/Accordion/) · [Report Bug](https://github.com/Mehdi-dev-sudo/Accordion/issues) · [Request Feature](https://github.com/Mehdi-dev-sudo/Accordion/pulls)
 
 </div>
 
