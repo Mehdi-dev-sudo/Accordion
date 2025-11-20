@@ -29,6 +29,7 @@ git clone https://github.com/yourusername/luxury-accordion.git
 # Open index.html in your browser
 
 That's it! No build process, no installation required.
+```
 
 ## 📸 Preview
 
