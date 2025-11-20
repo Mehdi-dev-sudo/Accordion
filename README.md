@@ -25,15 +25,10 @@
 ```bash
 # Clone the repo
 git clone https://github.com/yourusername/luxury-accordion.git
-
+```
 # Open index.html in your browser
 
 That's it! No build process, no installation required.
-```
-
-## 📸 Preview
-
-![Accordion Preview](preview.gif)
 
 ## 🎨 Customization
 
@@ -55,7 +50,7 @@ css
 
 ## 📝 License
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © [@Mehdi-dev-sudo](https://github.com/Mehdi-dev-sudo)
 
 ---
 
